@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GoReala23/se_project_express.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GoReala23/se_project_react.git
